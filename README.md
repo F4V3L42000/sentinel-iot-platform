@@ -54,10 +54,10 @@ Build a secure IoT platform combining robotics, embedded systems, Linux, network
 
 ### Phase 1
 
-* [✅] ESP32 purchased
-* [✅] First LED test
-* [ ] First WiFi connection
-* [ ] First web interface
+- [x] ESP32 setup
+- [x] First LED blink
+- [ ] First WiFi connection
+- [ ] First web interface
 
 ## Hardware
 
@@ -66,8 +66,6 @@ Build a secure IoT platform combining robotics, embedded systems, Linux, network
 * LEDs
 * Resistors
 * Dupont cables
-
-## Progress Log
 
 ### June 2026
 
