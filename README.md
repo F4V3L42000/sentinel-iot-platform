@@ -54,8 +54,8 @@ Build a secure IoT platform combining robotics, embedded systems, Linux, network
 
 ### Phase 1
 
-* [ ] ESP32 purchased
-* [ ] First LED test
+* [✅] ESP32 purchased
+* [✅] First LED test
 * [ ] First WiFi connection
 * [ ] First web interface
 
