@@ -67,7 +67,7 @@ The project serves as a practical learning platform for embedded systems, networ
 * [x] External LED control
 * [x] SOS Morse code pattern
 * [ ] Push button input
-* [ ] First WiFi connection
+- [x] First WiFi connection
 * [ ] First web interface
 
 ## Hardware
